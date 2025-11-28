@@ -97,12 +97,11 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
-  
   # === 综合新闻媒体类 ===
   # - id: "toutiao"
-    name: "今日头条"
+  # name: "今日头条"
   # - id: "baidu"
-    name: "百度热搜"
+  # name: "百度热搜"
   - id: "thepaper"
     name: "澎湃新闻"
   - id: "ifeng"
@@ -116,7 +115,7 @@ platforms:
   - id: "mktnews"
     name: "MKT新闻"
   # - id: "kaopu"
-    name: "靠谱新闻"
+  # name: "靠谱新闻"
 
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
@@ -138,17 +137,17 @@ platforms:
 
   # === 社交/短视频/娱乐类 ===
   # - id: "weibo"
-    name: "微博"
-  # - id: "douyin"
+  # name: "微博"
+  - id: "douyin"
     name: "抖音"
   # - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
+  # name: "bilibili 热搜"
   # - id: "tieba"
-    name: "贴吧"
+  # name: "贴吧"
   # - id: "zhihu"
-    name: "知乎"
+  # name: "知乎"
   # - id: "hupu"
-    name: "虎扑"
+  # name: "虎扑"
 
   # === 科技类平台 ===
   - id: "ithome"
@@ -156,7 +155,7 @@ platforms:
   - id: "juejin"
     name: "掘金"
   # - id: "github"
-    name: "GitHub"
+  # name: "GitHub"
   - id: "hackernews"
     name: "Hacker News"
   - id: "solidot"
