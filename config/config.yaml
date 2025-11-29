@@ -108,8 +108,8 @@ platforms:
     name: "凤凰网"
   - id: "cankaoxiaoxi"
     name: "参考消息"
-  - id: "sputniknewscn"
-    name: "卫星通讯社"
+  # - id: "sputniknewscn"
+  # name: "卫星通讯社"
   - id: "zaobao"
     name: "联合早报"
   - id: "mktnews"
@@ -150,10 +150,10 @@ platforms:
   # name: "虎扑"
 
   # === 科技类平台 ===
-  - id: "ithome"
-    name: "IT之家"
-  - id: "juejin"
-    name: "掘金"
+  # - id: "ithome"
+  # name: "IT之家"
+  # - id: "juejin"
+  # name: "掘金"
   # - id: "github"
   # name: "GitHub"
   # - id: "hackernews"
@@ -173,7 +173,7 @@ platforms:
 
   # === 其他/工具类 ===
   # - id: "chongbuluo"
-    name: "虫部落"
+  # name: "虫部落"
 
   # ======================================================
   # 暂时失败的渠道（可能需要修复或接口已变更）
